@@ -1,0 +1,100 @@
+body {
+  background-color: #f7fbfc;
+  font-family: "Montserrat", sans-serif;
+}
+
+h4 {
+  font-weight: 900;
+}
+
+
+.container {
+  padding: 3% 3% 3%;
+  margin: 1% auto 1%;
+  border-radius: 2%;
+  border: solid 2px;
+}
+
+.first-container  {
+  background-color: #00ad7c;
+  position: relative;
+}
+
+
+/* Language bar */
+
+.language_bar {
+  position: absolute;
+  right: 1%;
+  width: 180px;
+
+}
+
+.top_langlist {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+.top_langlist li {
+  display: inline-block;
+}
+
+
+/* Navbar */
+
+.navbar {
+  padding-top: 2%;
+}
+
+.navbar-brand {
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 2.2rem;
+  color: #000;
+
+}
+
+/* Profile */
+
+.profile-div {
+  background-color: #b5ff7d;
+  border-radius: 2%;
+  width: 90%;
+  margin: 5% auto 0;
+  border: solid 2px;
+
+
+}
+
+.profile-text {
+  padding: 3% 3%
+}
+
+.profile-image {
+  position: relative;
+  text-align: center;
+}
+
+.Lars_img {
+  border-radius: 50%;
+  width: 175px;
+  padding: 10% 0;
+
+}
+
+
+.second-container  {
+  background-color: #52d681;
+}
+
+.third-container  {
+  background-color: #b5ff7d;
+}
+
+.fourth-container  {
+  background-color: #fff8b5;
+}
+
+.bottom-container  {
+  background-color: #66BFBF;
+}
